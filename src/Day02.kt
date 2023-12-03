@@ -37,11 +37,9 @@ fun getRound(input: String): Round {
                     "red" -> {
                         red = digit
                     }
-
                     "blue" -> {
                         blue = digit
                     }
-
                     "green" -> {
                         green = digit
                     }
